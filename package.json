@@ -1,5 +1,5 @@
 {
-  "name": "secrets.js-grempe",
+  "name": "@d14na/secrets.js",
   "version": "1.2.0",
   "description": "Shamir's threshold secret sharing scheme for JavaScript.",
   "main": "secrets.js",
